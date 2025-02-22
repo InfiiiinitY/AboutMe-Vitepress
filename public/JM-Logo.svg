@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93333 270.93333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="JM-Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showborder="true"
+     labelstyle="default"
+     shape-rendering="auto"
+     inkscape:zoom="0.74208053"
+     inkscape:cx="396.8572"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.0097325"
+       y="-0.0097325"
+       width="1.019465"
+       height="1.019465">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2032"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.0031412201"
+       y="-0.0027973525"
+       width="1.0062824"
+       height="1.0055947">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.10182822"
+         id="feGaussianBlur4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5"
+       x="-0.0051088006"
+       y="-0.0023750848"
+       width="1.0102176"
+       height="1.0047502">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.080015641"
+         id="feGaussianBlur5" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:40.5694px;line-height:0;font-family:'ZF Prometo';-inkscape-font-specification:'ZF Prometo Medium';vector-effect:non-scaling-stroke;fill:#808080;stroke:#00abe7;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline;fill-opacity:1"
+       x="53.124851"
+       y="123.0072"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583;fill:#808080;fill-opacity:1"
+         x="53.124851"
+         y="123.0072" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.5694px;line-height:0;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';vector-effect:non-scaling-stroke;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       x="55.264103"
+       y="100.54501"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke:#808080;stroke-width:0.264583;stroke-opacity:1"
+         x="55.264103"
+         y="100.54501" /></text>
+    <circle
+       style="fill:#23232a;fill-opacity:1;stroke:#808080;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2)"
+       id="path2"
+       cx="135.46666"
+       cy="135.46666"
+       r="127" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.208px;line-height:0;font-family:Verdana;-inkscape-font-specification:Verdana;vector-effect:non-scaling-stroke;fill:#d9d9d9;fill-opacity:1;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;filter:url(#filter5)"
+       x="36.991497"
+       y="201.84492"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.208px;font-family:Verdana;-inkscape-font-specification:Verdana;vector-effect:non-scaling-stroke;fill:#d9d9d9;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+         x="36.991497"
+         y="201.84492">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.208px;line-height:0;font-family:Verdana;-inkscape-font-specification:Verdana;vector-effect:non-scaling-stroke;fill:#d9d9d9;fill-opacity:1;stroke:#808080;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline;filter:url(#filter4)"
+       x="91.961098"
+       y="201.84492"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.208px;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:0.264583;fill:#d9d9d9;fill-opacity:1"
+         x="91.961098"
+         y="201.84492">M</tspan></text>
+  </g>
+</svg>

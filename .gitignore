@@ -1,0 +1,6 @@
+# Cache directory
+.vitepress/cache
+
+# Dependencies
+bun.lock
+node_modules

@@ -1,0 +1,38 @@
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(
+        120deg,
+        #65735a,
+        #7ab4f2
+    );
+    --vp-home-hero-image-background-image: -webkit-linear-gradient(
+        -45deg,
+        #7ab4f2 50%,
+        #65735a 50%
+    );
+    --vp-home-hero-image-filter: blur(44px);
+    --vp-button-brand-bg: #65735a;
+    --vp-button-brand-hover-bg: var(--vp-c-brand-1);
+    --vp-button-brand-active-bg: #a5bd92;
+    --vp-c-brand-1: #8a9e7b;
+}
+
+img[src='/me.jpg'] {
+    border-radius: 50%;
+}
+
+.image-bg[data-v-89d2fc22] {
+    transform: none;
+}
+
+.image-bg {
+    position: static !important;
+    transform: none;
+    animation: 5s linear 0s infinite alternate breathe;
+}
+
+@keyframes breathe {
+    to {
+        transform: scale(1.25);
+    }
+}
