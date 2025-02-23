@@ -51,9 +51,10 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/InfiiiinitY' },
+      { icon: 'linkedin', link: 'https://linkedin.com/john-mattheus'},
+      { icon: 'aboutdotme', link: 'https://about.me/john.mattheus'},
       { icon: 'nextdotjs', link: 'https://aboutjohn.info'},
-      { icon: 'aboutdotme', link: 'https://about.me/john.mattheus'}
+      { icon: 'github', link: 'https://github.com/InfiiiinitY' },
     ],
 
     footer: {

@@ -26,5 +26,5 @@ features:
     details: I'm interested in all things technical, whether it's the latest stuff or old school
   - icon: 🚗
     title: Car guy
-    details: I love cars, and I drive a vintage car myself
+    details: I love cars and drive a vintage car myself
 ---
