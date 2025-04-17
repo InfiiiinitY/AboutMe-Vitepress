@@ -2,7 +2,7 @@
 export default {
     build: {
         rollupOptions: {
-            external: ["primevue/Timeline", "primevue/Card"],
+            external: ["primevue/timeline", "primevue/card"],
         },
     },
 };

@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from "vue";
-import Timeline from 'primevue/Timeline';
-import Card from 'primevue/Card';
+import Timeline from 'primevue/timeline';
+import Card from 'primevue/card';
 
 const events = ref([
     { title: "Born", text: "I was born in Dresden on the 17th of April 1998.", location: "Dresden", date: "17/04/1998" },
