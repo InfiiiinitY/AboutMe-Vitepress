@@ -1,4 +1,4 @@
-# About my projects
+# My projects
 
 I split my projects into two sections:
 

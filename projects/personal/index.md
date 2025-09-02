@@ -1,6 +1,6 @@
-# All personal projects
+<h1 style="text-align: center">All personal projects</h1>
 
-This is an overview over all my personal projects.
+<p style="text-align: center">This is an overview over all my personal projects.</p>
 
 ## Home Assistant
 
