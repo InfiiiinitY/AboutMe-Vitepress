@@ -1,5 +1,6 @@
 # Cache directory
 .vitepress/cache
+.idea
 
 # Dependencies
 bun.lock
