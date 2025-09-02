@@ -22,7 +22,7 @@ export default defineConfig({
         logo: "/JM-Logo.svg",
         nav: [
             { text: "Home", link: "/" },
-            { text: "About me", link: "/life/" },
+            { text: "My life", link: "/life/" },
             { text: "My projects", link: "/projects/" },
         ],
 
@@ -48,7 +48,9 @@ export default defineConfig({
                             text: "Home Assistant",
                             link: "/projects/personal/home-assistant",
                         },
-                        { text: "VPS", link: "/projects/personal/vps" },
+                        {
+                            text: "My VPS",
+                            link: "/projects/personal/vps" },
                         {
                             text: "ChronoDiff",
                             link: "/projects/personal/chronodiff",
@@ -59,7 +61,9 @@ export default defineConfig({
                     text: "My work projects",
                     collapsed: false,
                     items: [
-                        { text: "Overview - Work", link: "/projects/work/" },
+                        {
+                            text: "Overview - Work",
+                            link: "/projects/work/" },
                         {
                             text: "PalletPilot",
                             link: "/projects/work/palletpilot",
