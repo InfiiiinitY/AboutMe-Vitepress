@@ -9,7 +9,7 @@ So I decided about a plan and was ready to buy some sensors to make myself a _Sm
 
 ![Mermaid Diagram](../../Assets/mermaid_homeassistant.png)
 
-For years, I had an old [RaspberryPi 3b](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) lying around.
+For years, I had an old [Raspberry Pi 3b](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) lying around.
 I didn't use it for anything, so I decided that it would be my host. It's not very strong performance wise, but it gets the job done.
 It does struggle with running some heavier plugins, since it only has 1GB of RAM. But as long as you're not expecting much, it can't disappoint.
 
