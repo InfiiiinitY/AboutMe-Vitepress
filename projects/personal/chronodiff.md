@@ -1,4 +1,6 @@
-<h1 style="text-align: center">ChronoDiff</h1>
+<div class="centerTitle">
+    <h1>ChronoDiff</h1>
+</div>
 
 ## The idea
 

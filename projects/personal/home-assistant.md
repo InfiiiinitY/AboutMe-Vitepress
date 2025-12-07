@@ -1,4 +1,6 @@
-<h1 style="text-align: center">Home Assistant</h1>
+<div class="centerTitle">
+    <h1>Home Assistant</h1>
+</div>
 
 ## The idea
 
@@ -7,7 +9,9 @@ Beginning of 2024, while working with [Node-RED](https://nodered.org) as a train
 I had already heard a lot about [Home Assistant](https://www.home-assistant.io/) and was intrigued.
 So I decided about a plan and was ready to buy some sensors to make myself a _Smart home_:
 
-![Mermaid Diagram](../../Assets/mermaid_homeassistant.png)
+<div class="pictureWrapper">
+    <img src="../../Assets/mermaid_homeassistant.png" />
+</div>
 
 For years, I had an old [Raspberry Pi 3b](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) lying around.
 I didn't use it for anything, so I decided that it would be my host. It's not very strong performance wise, but it gets the job done.
@@ -26,18 +30,18 @@ To get them connected to my _Home Assistant_, I needed a _Zigbee 3.0_ dongle whi
 Setting up _Home Assistant_ was as easy as following their [installation guide](https://www.home-assistant.io/installation/raspberrypi).
 The _Raspberry Pi imager_ even has a dedicated option when choosing which OS to install!
 
-![Imager](https://www.home-assistant.io/images/installation/rpi-ha.webp)
+<div class="pictureWrapper">
+    <img src="https://www.home-assistant.io/images/installation/rpi-ha.webp" />
+</div>
 
 After setting everything up, I got into designing my dashboards and setting everything up.
 
 Almost two years later and after fiddling around, this is what the setup looks like now:
 
-<div align="center">
-
-![Setup hardware](../../Assets/setup_hassos_1.jpg){width=200px}
-![Setup dongle](../../Assets/setup_hassos_2.jpg){width=200px}
-![Setup sensor](../../Assets/setup_hassos_3.jpg){width=200px}
-
+<div class="threePictureRow">
+    <img src="../../Assets/setup_hassos_1.jpg" />
+    <img src="../../Assets/setup_hassos_2.jpg" />
+    <img src="../../Assets/setup_hassos_3.jpg" />
 </div>
 
 During all my setup I encountered one problem I had to fix - the power supply.
@@ -54,7 +58,9 @@ Aside from that power supply though, _Home Assistant_ just works.
 Even setting 3rd party things up, like [Ikea lights](https://www.ikea.com/de/de/p/tradfri-treiber-fuer-kabellose-steuerung-smart-grau-60342656/),
 works perfectly with the _Zigbee 3.0_ dongle and the [Zigbee Home Automation](https://www.home-assistant.io/integrations/zha/) integration.
 
-![HassOS Dashboard](../../Assets/hassos_dashboard.png)
+<div class="pictureWrapper">
+    <img src="../../Assets/hassos_dashboard.png" />
+</div>
 
 Even though it's nothing special and I don't have hundreds of sensors, I'm happy with it.
 But there is so much more you can do with _Home Assistant_.

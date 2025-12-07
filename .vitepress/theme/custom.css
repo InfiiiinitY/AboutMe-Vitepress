@@ -15,9 +15,18 @@
     --vp-button-brand-hover-bg: var(--vp-c-brand-1);
     --vp-button-brand-active-bg: #a5bd92;
     --vp-c-brand-1: #8a9e7b;
+
+    --custom-shadow-s:
+        inset 0 1px 2px #ffffff30, 0 1px 2px #00000030, 0 2px 4px #00000015;
+
+    --custom-shadow-m:
+        inset 0 1px 2px #ffffff50, 0 2px 4px #00000030, 0 4px 8px #00000015;
+
+    --custom-shadow-l:
+        inset 0 1px 2px #ffffff70, 0 4px 6px #00000030, 0 6px 10px #00000015;
 }
 
-img[src='/me.jpg'] {
+img[src="/me.jpg"] {
     border-radius: 50%;
 }
 
@@ -30,5 +39,56 @@ img[src='/me.jpg'] {
 @keyframes breathe {
     to {
         scale: 1.25;
+    }
+}
+
+.VPFeature,
+.VPButton {
+    box-shadow: var(--custom-shadow-s);
+}
+
+.vp-doc p {
+    text-align: justify;
+
+    code {
+        text-wrap-mode: nowrap;
+    }
+}
+
+.centerTitle {
+    h1 {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+    }
+}
+
+.pictureWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+        max-width: 100%;
+        max-height: 500px;
+        width: auto;
+        height: auto;
+    }
+}
+
+.threePictureRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    img {
+        max-width: 30%;
+        max-height: 500px;
+        width: auto;
+        height: auto;
+        margin-left: 2px;
+        margin-right: 2px;
     }
 }
