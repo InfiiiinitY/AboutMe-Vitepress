@@ -9,6 +9,12 @@ I use Home Assistant for my smart home.
 
 This is an ongoing project. Can these things even be final?
 
+## Proxmox cluster
+
+I moved from a weak Rasperry Pi to a much more capable Proxmox node cluster.
+
+This is my homelab now.
+
 ## My VPS
 
 This is what I use almost daily.
