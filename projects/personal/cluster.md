@@ -2,7 +2,7 @@
     <h1>Proxmox cluster</h1>
 </div>
 
-## The Idea
+## The idea
 
 In September of 2025 I kinda became fed up with the whole [Home Assistant on Raspberry Pi](./home-assistant#the-setup) thing.
 It worked alright, but my Raspberry Pi 3b was really sweating just running that.
