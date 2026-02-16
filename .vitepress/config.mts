@@ -8,9 +8,9 @@ export default defineConfig({
     [
       "script",
       {
+        src: "https://rybbit.johns-world.de/api/script.js",
+        "data-site-id": "aff494626e93",
         defer: "",
-        "data-domain": "aboutme.johns-world.de",
-        src: "https://plausible.johns-world.de/js/script.outbound-links.js",
       },
     ],
   ],
